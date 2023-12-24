@@ -1,4 +1,4 @@
-baseURL = "https://junghan0611.github.io"
+baseURL = "https://junghan0611.github.io/"
 title = "Junghan0611"
 copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
 paginate = 3
